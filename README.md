@@ -1,5 +1,5 @@
 # Tours List (React)
-[Live Demo] (https://02-tours-o.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/cae1bd9c-44bc-42ae-9851-1481a5a7c40e/deploy-status)](https://app.netlify.com/sites/02-tours-o/deploys)
+[Live Demo](https://02-tours-o.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/cae1bd9c-44bc-42ae-9851-1481a5a7c40e/deploy-status)](https://app.netlify.com/sites/02-tours-o/deploys)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
