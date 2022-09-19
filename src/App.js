@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react'
-import logo from './logo.svg';
 import './App.css';
 import Loading from './Loading';
 import Tours from './Tours';
@@ -21,7 +20,7 @@ function App() {
 
     try {
       const response = await fetch(url);
-      const tours = await response .json();
+      const tours = await response.json();
       setLoading(false);
       setTours(tours);
     } catch (error) {
